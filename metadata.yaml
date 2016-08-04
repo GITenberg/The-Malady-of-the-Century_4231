@@ -1,0 +1,28 @@
+_repo: The-Malady-of-the-Century_4231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nordau, Max Simon
+    aliases:
+    - Sudfeld, Max Simon
+    - Südfeld, Max Simon
+    birthdate: 1849
+    deathdate: 1923
+    gutenberg_agent_id: '1408'
+    url: http://www.gutenberg.org/2009/agents/1408
+    wikipedia: http://en.wikipedia.org/wiki/Max_Nordau
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: The Malady of the Century
+url: http://www.gutenberg.org/ebooks/4231
